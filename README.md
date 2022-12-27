@@ -1,7 +1,12 @@
-### Hi there 👋
+## Hi 👋, I'm NEJDANI Yahya 
+### DevOps Enginner 
 
 
-**yahya-Njd/yahya-Njd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my GitHub account! I am currently a master's degree student in the field of Big Data and Cloud Computing.
+
+I am particularly interested in the field of DevOps and am constantly learning and exploring new technologies in this area. On my GitHub account, you will find a variety of projects that demonstrate my skills and interests in this field.
+
+If you have any questions or want to collaborate on a project, don't hesitate to reach out. Thank you for visiting my account.
 
 <!-- Here are some ideas to get you started:
 
