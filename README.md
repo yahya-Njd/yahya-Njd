@@ -2,7 +2,7 @@
 ### DevOps Enginner 
 
 
-** Welcome to my GitHub account! I am currently a master's degree student in the field of Big Data and Cloud Computing.
+Welcome to my GitHub account! I am currently a master's degree student in the field of Big Data and Cloud Computing.
 
 I am particularly interested in the field of DevOps and am constantly learning and exploring new technologies in this area. On my GitHub account, you will find a variety of projects that demonstrate my skills and interests in this field.
 
